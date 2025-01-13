@@ -3,9 +3,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.github.zacblanco.airbase</groupId>
+        <groupId>com.facebook.airlift</groupId>
         <artifactId>airbase</artifactId>
-        <version>upgradeToJava17-SNAPSHOT</version>
+        <version>104</version>
     </parent>
 
     <groupId>com.facebook.presto</groupId>
